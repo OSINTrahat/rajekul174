@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="90" viewBox="0 0 720 90"><rect width="720" height="90" rx="12" fill="#0a0a0a" stroke="#EF4444"/><text x="360" y="52" text-anchor="middle" font-family="monospace" font-size="18" fill="#F87171">Collect. Verify. Connect the dots.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100">
+  <rect width="900" height="100" rx="8" fill="#000" stroke="#00FF41" stroke-width="2"/>
+  <text x="450" y="40" text-anchor="middle" font-family="monospace" font-size="14" fill="#00FF41">root@osint:~$</text>
+  <text x="450" y="70" text-anchor="middle" font-family="monospace" font-size="18" fill="#7CFF9B">collect | verify | connect_the_dots</text>
+</svg>
