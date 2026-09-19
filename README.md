@@ -1,64 +1,54 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="OS RAHAT // OSINT" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:00FF41,100:003300&height=220&section=header&text=OS%20RAHAT&fontSize=70&fontAlignY=35&fontColor=001a00&desc=OSINT%20OPERATOR&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="header" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/rajekul174">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&height=46&lines=%3E+whoami;OS+RAHAT;OSINT+OPERATOR;root%40shadow%3A~%23+collect+%7C+verify+%7C+report" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=%3E+whoami;OS+RAHAT+%E2%80%94+OSINT+Expert;collect+%7C+verify+%7C+connect+the+dots;root%40shadow%3A~%23+online" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%24-ACCESS_GRANTED-00FF41?style=for-the-badge&labelColor=000000" alt="access" />
-  <img src="https://img.shields.io/badge/MODE-STEALTH-00FF41?style=for-the-badge&labelColor=000000" alt="stealth" />
-  <img src="https://img.shields.io/badge/STACK-OSINT-00FF41?style=for-the-badge&labelColor=000000" alt="osint" />
+  <img src="https://img.shields.io/badge/%24-ACCESS_GRANTED-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MODE-STEALTH-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STACK-OSINT-00FF41?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="center">
-  <a href="mailto:rajekulislampakura@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-SECURE_CHANNEL-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=050505" alt="Email" />
-  </a>
+  <a href="mailto:rajekulislampakura@gmail.com"><img src="https://img.shields.io/badge/Email-secure_channel-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=050505" /></a>
   &nbsp;
-  <a href="https://github.com/rajekul174">
-    <img src="https://img.shields.io/badge/GITHUB-rajekul174-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=050505" alt="GitHub" />
-  </a>
+  <a href="https://github.com/rajekul174"><img src="https://img.shields.io/badge/GitHub-rajekul174-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=050505" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajekul174&label=TRACELOGS&color=00ff41&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rajekul174&label=TRACELOGS&color=00ff41&style=for-the-badge" />
 </p>
 
 ---
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=420&lines=%3E+cat+about.txt;%3E+decrypting+identity..." alt="about" /></h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1200&color=00FF41&center=true&vCenter=true&width=360&lines=%3E+cat+about.txt" alt="about" />
+</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TeBcDYZ6YhNQvlpv6N/giphy.gif" width="280" alt="hacker terminal gif" />
+  <img src="https://media.giphy.com/media/TeBcDYZ6YhNQvlpv6N/giphy.gif" width="240" alt="terminal" />
 </p>
 
 ```diff
 + operator : OS RAHAT
 + role     : OSINT Expert
 + status   : ONLINE
-+ mission  : collect → verify → connect the dots
++ mission  : collect → verify → report
 ```
 
 <p align="center">
-  I hunt <b>signals in public noise</b>. Usernames, footprints, images, archives.<br/>
-  No rumor. No guess. Only sources.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/CLEARANCE-OSINT-00FF41?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/LINKEDIN-HIDDEN-111111?style=flat-square&labelColor=000000" />
+  Public noise → signal.<br/>
+  Usernames, footprints, images, archives. Sources only.
 </p>
 
 ---
 
 <h2 align="center">[ MODULES ]</h2>
 
-<table width="100%">
+<table align="center">
 <tr>
 <td align="center" width="50%">
 
@@ -71,7 +61,7 @@ Map public handles across platforms.
 
 **02 // IMAGE INTEL**
 
-Reverse search + public metadata checks.
+Reverse search + public metadata.
 
 </td>
 </tr>
@@ -80,7 +70,7 @@ Reverse search + public metadata checks.
 
 **03 // SOCMINT**
 
-Public posts, timelines, connection patterns.
+Public posts and connection patterns.
 
 </td>
 <td align="center" width="50%">
@@ -116,16 +106,16 @@ Source-first notes. Clean reports.
 <h2 align="center">[ TELEMETRY ]</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajekul174&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=B6F7C1&icon_color=00FF41&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajekul174&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=B6F7C1&hide_border=true" height="160" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajekul174&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=B6F7C1&icon_color=00FF41&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajekul174&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=B6F7C1&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=rajekul174&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=B6F7C1" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=rajekul174&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajekul174&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rajekul174&theme=matrix&no-frame=true&no-bg=true&column=6" />
 </p>
 
 ---
@@ -133,19 +123,19 @@ Source-first notes. Clean reports.
 <h2 align="center">[ PACKET STREAM ]</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajekul174/rajekul174/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajekul174/rajekul174/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---
-
-<div align="center">
-  <img src="assets/quote.svg" width="90%" alt="quote" />
-</div>
 
 <p align="center">
   <a href="mailto:rajekulislampakura@gmail.com"><img src="https://img.shields.io/badge/%3E-open_secure_channel-00FF41?style=for-the-badge&labelColor=000000" /></a>
 </p>
 
 <div align="center">
-  <img src="assets/footer.svg" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00FF41&height=120&section=footer&text=github.com%2Frajekul174&fontSize=18&fontColor=001a00" width="100%" alt="footer" />
 </div>
