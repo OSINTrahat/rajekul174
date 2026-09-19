@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/rajekul174">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=46&lines=Hi%20there!%20I'm%20OS%20RAHAT%20%F0%9F%91%8B;Welcome%20to%20my%20GitHub%20profile;Learning%20%26%20building%20in%20public" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=640&height=46&lines=Hi%2C+I'm+OS+RAHAT;OSINT+Analyst+%26+Researcher;Open+Source+Intelligence" width="100%" style="max-width: 640px;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,34 +23,68 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+step+by+step." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=620&height=28&lines=Collect.+Verify.+Connect+the+dots." width="100%" style="max-width: 620px;" alt="Typing Quote" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  Hey! I'm <b>OS RAHAT</b>, an <b>OSINT expert</b>.<br />
+  I work with open-source intelligence: public data research, username tracing, social media investigation, and report writing.
 </p>
 
 <p align="center">
-  Hey! I'm <b>OS RAHAT</b>.<br />
-  I use GitHub to learn, practice, and share my work.<br />
-  This profile is being built step by step.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-111111?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Role-OSINT_Expert-DC2626?style=flat-square" alt="Role" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-rajekul174-DC2626?style=flat-square" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Focus-Investigation_%26_Research-111111?style=flat-square" alt="Focus" />
 </p>
+
+---
+
+<h2 align="center">Skills</h2>
+
+<p align="center"><b>OSINT &amp; Investigation</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OSINT-DC2626?style=for-the-badge" alt="OSINT" />
+  <img src="https://img.shields.io/badge/Social_Media_Intel-111111?style=for-the-badge" alt="SOCMINT" />
+  <img src="https://img.shields.io/badge/Username_OSINT-DC2626?style=for-the-badge" alt="Username OSINT" />
+  <img src="https://img.shields.io/badge/Image_OSINT-111111?style=for-the-badge" alt="Image OSINT" />
+  <img src="https://img.shields.io/badge/Public_Records-DC2626?style=for-the-badge" alt="Public Records" />
+  <img src="https://img.shields.io/badge/Report_Writing-111111?style=for-the-badge" alt="Report Writing" />
+</p>
+
+<p align="center"><b>Tools</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Dorking-0a0a0a?style=for-the-badge&logo=google&logoColor=EF4444" alt="Google Dorking" />
+  <img src="https://img.shields.io/badge/Maltego-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="Maltego" />
+  <img src="https://img.shields.io/badge/Sherlock-0a0a0a?style=for-the-badge&logo=github&logoColor=EF4444" alt="Sherlock" />
+  <img src="https://img.shields.io/badge/theHarvester-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="theHarvester" />
+  <img src="https://img.shields.io/badge/Wayback_Machine-0a0a0a?style=for-the-badge&logo=internetarchive&logoColor=EF4444" alt="Wayback" />
+</p>
+
+---
+
+<h2 align="center">Project Focus</h2>
+
+<p align="center"><i>Current OSINT work areas. Public case files stay private when needed.</i></p>
 
 <table width="100%" border="0" align="center">
 <tr>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>Active Focus</h4>
-  <p><b>GitHub &amp; coding practice</b><br /><sub>Building a clean public profile</sub></p>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>Username &amp; Footprint Mapping</h4>
+  <p><sub>Trace public usernames across platforms and build a source map.</sub></p>
 </td>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>Collaboration</h4>
-  <p><b>Open to learning together</b><br /><sub>Feel free to connect</sub></p>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>Image &amp; Metadata Checks</h4>
+  <p><sub>Reverse image search and basic metadata review on public photos.</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>SOCMINT Review</h4>
+  <p><sub>Public social posts, timelines, and connection patterns.</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 16px;">
+  <h4>OSINT Case Notes</h4>
+  <p><sub>Clean investigation notes and source-based reporting.</sub></p>
 </td>
 </tr>
 </table>
@@ -70,11 +104,7 @@
 
 ---
 
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-  <i>Want to say hello or collaborate? My inbox is open.</i>
-</p>
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="mailto:rajekulislampakura@gmail.com">
