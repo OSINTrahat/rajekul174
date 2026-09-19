@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:00FF41,100:003300&height=220&section=header&text=OS%20RAHAT&fontSize=70&fontAlignY=35&fontColor=001a00&desc=OSINT%20OPERATOR&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:00FF41,100:003300&height=220&section=header&text=OSINTrahat&fontSize=62&fontAlignY=35&fontColor=001a00&desc=OSINT%20OPERATOR&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="header" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=%3E+whoami;OS+RAHAT+%E2%80%94+OSINT+Expert;collect+%7C+verify+%7C+connect+the+dots;root%40shadow%3A~%23+online" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=%3E+whoami;OSINTrahat+%E2%80%94+OSINT+Expert;collect+%7C+verify+%7C+connect+the+dots;root%40OSINTrahat%3A~%23+online" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/%24-ACCESS_GRANTED-00FF41?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/MODE-STEALTH-00FF41?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/STACK-OSINT-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/HANDLE-OSINTrahat-00FF41?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="center">
   <a href="mailto:rajekulislampakura@gmail.com"><img src="https://img.shields.io/badge/Email-secure_channel-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=050505" /></a>
   &nbsp;
-  <a href="https://github.com/rajekul174"><img src="https://img.shields.io/badge/GitHub-rajekul174-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=050505" /></a>
+  <a href="https://github.com/rajekul174"><img src="https://img.shields.io/badge/GitHub-OSINTrahat-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=050505" /></a>
 </p>
 
 <p align="center">
@@ -33,6 +33,7 @@
 </p>
 
 ```diff
++ handle   : OSINTrahat
 + operator : OS RAHAT
 + role     : OSINT Expert
 + status   : ONLINE
@@ -137,5 +138,5 @@ Source-first notes. Clean reports.
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00FF41&height=120&section=footer&text=github.com%2Frajekul174&fontSize=18&fontColor=001a00" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00FF41&height=120&section=footer&text=OSINTrahat&fontSize=22&fontColor=001a00" width="100%" alt="footer" />
 </div>
