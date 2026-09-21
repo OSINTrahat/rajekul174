@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OSINTrahat — OSINT Operator</title>
+  <meta name="description" content="OS RAHAT — OSINT operator. Collect, verify, connect the dots." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <canvas id="matrix" aria-hidden="true"></canvas>
+  <div class="scanline"></div>
+
+  <header class="topbar">
+    <div class="logo">root@<span>OSINTrahat</span>:~#</div>
+    <nav>
+      <a href="#about">about</a>
+      <a href="#modules">modules</a>
+      <a href="#arsenal">arsenal</a>
+      <a href="#contact">contact</a>
+    </nav>
+    <span class="status"><i></i> ONLINE</span>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="eyebrow">> whoami</p>
+      <h1>OSINTrahat</h1>
+      <p class="role">OSINT OPERATOR · OS RAHAT</p>
+      <p class="tagline" id="typewriter"></p>
+      <div class="cta">
+        <a class="btn" href="mailto:rajekulislampakura@gmail.com">open_secure_channel</a>
+        <a class="btn ghost" href="https://github.com/OSINTrahat" target="_blank" rel="noopener">github</a>
+      </div>
+    </section>
+
+    <section id="about">
+      <h2><span class="prompt">$</span> cat about.txt</h2>
+      <div class="card terminal">
+        <pre>+ handle   : OSINTrahat
++ operator : OS RAHAT
++ role     : OSINT Expert
++ status   : ONLINE
++ mission  : collect → verify → report</pre>
+        <p>Public noise → signal. Usernames, footprints, images, archives. Sources only.</p>
+      </div>
+    </section>
+
+    <section id="modules">
+      <h2><span class="prompt">$</span> ls modules/</h2>
+      <div class="grid">
+        <article class="card">
+          <h3>01 // USERNAME TRACE</h3>
+          <p>Map public handles across platforms.</p>
+        </article>
+        <article class="card">
+          <h3>02 // IMAGE INTEL</h3>
+          <p>Reverse search + public metadata.</p>
+        </article>
+        <article class="card">
+          <h3>03 // SOCMINT</h3>
+          <p>Public posts and connection patterns.</p>
+        </article>
+        <article class="card">
+          <h3>04 // CASE FILE</h3>
+          <p>Source-first notes. Clean reports.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="arsenal">
+      <h2><span class="prompt">$</span> cat arsenal.md</h2>
+      <div class="tags">
+        <span>OSINT</span><span>SOCMINT</span><span>GOOGLE DORKS</span>
+        <span>SHERLOCK</span><span>MALTEGO</span><span>THEHARVESTER</span>
+        <span>WAYBACK</span><span>LINUX</span><span>BASH</span><span>PYTHON</span><span>GIT</span>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2><span class="prompt">$</span> ./contact.sh</h2>
+      <div class="card">
+        <p>Need a public-source trace or a clean case file?</p>
+        <a class="btn" href="mailto:rajekulislampakura@gmail.com">rajekulislampakura@gmail.com</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>OSINTrahat · collect | verify | connect the dots</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
